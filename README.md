@@ -1,3 +1,4 @@
 CV-GITA-YASA
-│── index3.html
+│── index.html
+│── galeri/
 │── README.md
