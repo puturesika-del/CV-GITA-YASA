@@ -2,9 +2,9 @@ CV-GITA-YASA
 ├── index.html
 ├── galeri/
 │   ├── uji-engineering/
-│   │   ├── 1.jpg
-│   │   ├── 2.jpg
-│   │   └── 3.jpg
+│   │   ├── 1.jpeg
+│   │   ├── 2.jpeg
+│   │   └── 3.jpeg
 │   ├── uji-lapangan/
 │   │   ├── 1.jpeg
 │   │   ├── 2.jpeg
